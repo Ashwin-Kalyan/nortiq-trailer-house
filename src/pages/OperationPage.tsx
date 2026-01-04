@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import { Link } from 'react-router-dom'
 
 const OperationPage = () => {
   const [activeFaq, setActiveFaq] = useState<number | null>(null)

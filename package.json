@@ -2,6 +2,7 @@
   "name": "pleast-website",
   "version": "1.0.0",
   "description": "PLEAST - Real Estate Investment Website",
+  "type": "module",
   "private": true,
   "scripts": {
     "dev": "vite",
